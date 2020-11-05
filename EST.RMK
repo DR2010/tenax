@@ -1,0 +1,89 @@
+.prg.obj:
+   clipper $** /m /b
+
+est000.obj:     est000.prg
+est11.obj :     est11.prg
+est12.obj :     est12.prg
+est13.obj :     est13.prg
+est14.obj :     est14.prg
+est16.obj :     est16.prg
+est161.obj :    est161.prg
+est17.obj :     est17.prg
+est18.obj :     est18.prg
+est19.obj :     est19.prg
+est21.obj :     est21.prg
+est22.obj :     est22.prg
+est23.obj :     est23.prg
+est231.obj :    est231.prg
+est31.obj :     est31.prg
+est35.obj :     est35.prg
+est36.obj :     est36.prg
+est037.obj :    est037.prg
+est40.obj :     est40.prg
+est81.obj :     est81.prg
+est82.obj :     est82.prg
+est83.obj :     est83.prg
+est84.obj :     est84.prg
+est85.obj :     est85.prg
+est570.obj :     est570.prg
+estm05.obj :    estm05.prg
+estm06.obj :    estm06.prg
+esterro.obj :    esterro.prg
+
+rel001.obj :    rel001.prg
+rel002.obj :    rel002.prg
+rel003.obj :    rel003.prg
+rel004.obj :    rel004.prg
+rel005.obj :    rel005.prg
+rel006.obj :    rel006.prg
+rel007.obj :    rel007.prg
+rel008.obj :    rel008.prg
+rel009.obj :    rel009.prg
+rel010.obj :    rel010.prg
+rel011.obj :    rel011.prg
+rel013.obj :    rel013.prg
+rel015.obj :    rel015.prg
+rel016.obj :    rel016.prg
+rel037.obj :    rel037.prg
+rel038.obj :    rel038.prg
+rel039.obj:     rel039.prg
+rel040.obj :    rel040.prg
+rel042.obj :    rel042.prg
+rel045.obj :    rel045.prg
+rel999.obj :    rel999.prg
+
+estfunc.obj:    estfunc.prg
+
+ven011.obj:     ven011.prg
+ven012.obj:     ven012.prg
+ven021.obj:     ven021.prg
+ven022.obj:     ven022.prg
+ven032.obj:     ven032.prg
+ven033.obj:     ven033.prg
+ven0321.obj:    ven0321.prg
+ven0331.obj:    ven0331.prg
+ven034.obj:     ven034.prg
+ven0351.obj:    ven0351.prg
+ven016.obj:     ven016.prg
+ven362.obj:     ven362.prg
+ven363.obj:     ven363.prg
+ven364.obj:     ven364.prg
+ven365.obj:     ven365.prg
+ven366.obj:     ven366.prg
+ven367.obj:     ven367.prg
+ven368.obj:     ven368.prg
+ven369.obj:     ven369.prg
+ven370.obj:     ven370.prg
+ven023.obj:     ven023.prg
+ven024.obj:     ven024.prg
+ven099.obj:     ven099.prg
+ven100.obj:     ven100.prg
+ven110.obj:     ven110.prg
+ven372.obj:     ven372.prg
+ven373.obj:     ven373.prg
+ven570.obj:     ven570.prg
+age001.obj:     age001.prg
+rotin.obj:      rotin.prg
+rel001.obj:     rel001.prg
+funcao.obj:     funcao.prg
+rel006i.obj:    rel006i.prg

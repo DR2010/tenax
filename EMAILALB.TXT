@@ -1,0 +1,29 @@
+
+Data : 29/marco/1997
+Hora : 10:45
+
+
+Programas excluidos
+
+        T.PRG
+        AB000.PRG
+        FUNC.PRG
+        S.PRG
+
+Programas Alterados
+
+        EST000.PRG
+        ROTIN.PRG
+        ESTFUNC.PRG
+        EST81.PRG
+        EST82.PRG
+        EST83.PRG
+        FAT000.PRG
+
+Alteracoes DBF
+
+        ESTROTIN.DBF
+
+        -> Incluir campo :  FASTKEY   C   10
+
+

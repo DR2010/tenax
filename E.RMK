@@ -1,0 +1,146 @@
+.prg.obj:
+   clipper $** /m /b
+
+est000.obj:     est000.prg
+est11.obj :     est11.prg
+est12.obj :     est12.prg
+est13.obj :     est13.prg
+est14.obj :     est14.prg
+est16.obj :     est16.prg
+est161.obj :    est161.prg
+est17.obj :     est17.prg
+est18.obj :     est18.prg
+est19.obj :     est19.prg
+est21.obj :     est21.prg
+est22.obj :     est22.prg
+est23.obj :     est23.prg
+est231.obj :    est231.prg
+est31.obj :     est31.prg
+est35.obj :     est35.prg
+est36.obj :     est36.prg
+est037.obj :    est037.prg
+est40.obj :     est40.prg
+est81.obj :     est81.prg
+est82.obj :     est82.prg
+est83.obj :     est83.prg
+est84.obj :     est84.prg
+est85.obj :     est85.prg
+estm05.obj :    estm05.prg
+estm06.obj :    estm06.prg
+
+rel001.obj :    rel001.prg
+rel002.obj :    rel002.prg
+rel003.obj :    rel003.prg
+rel004.obj :    rel004.prg
+rel005.obj :    rel005.prg
+rel006.obj :    rel006.prg
+rel007.obj :    rel007.prg
+rel008.obj :    rel008.prg
+rel009.obj :    rel009.prg
+rel010.obj :    rel010.prg
+rel011.obj :    rel011.prg
+rel013.obj :    rel013.prg
+rel015.obj :    rel015.prg
+rel016.obj :    rel016.prg
+rel037.obj :    rel037.prg
+rel038.obj :    rel038.prg
+rel0381.obj :    rel0381.prg
+rel039.obj:     rel039.prg
+rel040.obj :    rel040.prg
+rel042.obj :    rel042.prg
+rel045.obj :    rel045.prg
+rel999.obj :    rel999.prg
+
+estfunc.obj:    estfunc.prg
+
+ven011.obj:     ven011.prg
+ven012.obj:     ven012.prg
+ven021.obj:     ven021.prg
+ven022.obj:     ven022.prg
+ven032.obj:     ven032.prg
+ven033.obj:     ven033.prg
+ven0321.obj:    ven0321.prg
+ven0331.obj:    ven0331.prg
+ven034.obj:     ven034.prg
+ven0351.obj:    ven0351.prg
+ven016.obj:     ven016.prg
+ven362.obj:     ven362.prg
+ven363.obj:     ven363.prg
+ven364.obj:     ven364.prg
+ven365.obj:     ven365.prg
+ven366.obj:     ven366.prg
+ven367.obj:     ven367.prg
+ven368.obj:     ven368.prg
+ven369.obj:     ven369.prg
+ven370.obj:     ven370.prg
+ven023.obj:     ven023.prg
+ven024.obj:     ven024.prg
+ven099.obj:     ven099.prg
+ven100.obj:     ven100.prg
+ven110.obj:     ven110.prg
+VEN372.obj:     VEN372.prg
+VEN373.obj:     VEN373.prg
+age001.obj:     age001.prg
+rotin.obj:      rotin.prg
+rel001.obj:     rel001.prg
+funcao.obj:     funcao.prg
+rel006i.obj:    rel006i.prg
+
+cr0100.obj:     cr0100.prg
+cr0200.obj:     cr0200.prg
+cr0300.obj:     cr0300.prg
+cr0400.obj:     cr0400.prg
+cr0500.obj:     cr0500.prg
+cr0600.obj:     cr0600.prg
+cr9991.obj:     cr9991.prg
+cr1000.obj:     cr1000.prg
+cr1100.obj:     cr1100.prg
+cr1101.obj:     cr1101.prg
+cr1200.obj:     cr1200.prg
+cr1300.obj:     cr1300.prg
+cr1400.obj:     cr1400.prg
+cr1500.obj:     cr1500.prg
+crr1000.obj:    crr1000.prg
+crr1100.obj:    crr1100.prg
+crr1200.obj:    crr1200.prg
+crr1300.obj:    crr1300.prg
+crr1400.obj:    crr1400.prg
+crr1500.obj:    crr1500.prg
+crr1700.obj:    crr1700.prg
+
+SR0300.obj:     SR0300.prg
+SR0400.obj:     SR0400.prg
+SR0500.obj:     SR0500.prg
+SR0600.obj:     SR0600.prg
+SR0700.obj:     SR0700.prg
+SR9991.obj:     SR9991.prg
+SR1000.obj:     SR1000.prg
+SR1100.obj:     SR1100.prg
+SR1200.obj:     SR1200.prg
+SR1300.obj:     SR1300.prg
+SR1400.obj:     SR1400.prg
+SR1500.obj:     SR1500.prg
+SRr1000.obj:    SRr1000.prg
+SRr1100.obj:    SRr1100.prg
+SRr1200.obj:    SRr1200.prg
+SRr1300.obj:    SRr1300.prg
+SRr1500.obj:    SRr1500.prg
+SRr1700.obj:    SRr1700.prg
+
+ER0900.obj:     ER0900.prg
+ER1000.obj:     ER1000.prg
+ER1100.obj:     ER1100.prg
+ER0600.obj:     ER0600.prg
+ER1500.obj:     ER1500.prg
+ER1200.obj:     ER1200.prg
+ER1300.obj:     ER1300.prg
+ERR1000.obj:     ERR1000.prg
+ERR1100.obj:     ERR1100.prg
+ERR1200.obj:     ERR1200.prg
+ERR1300.obj:     ERR1300.prg
+ERR1400.obj:     ERR1400.prg
+ERR1500.obj:     ERR1500.prg
+ERR1400.obj:     ERR1700.prg
+
+BAC999.OBJ:     BAC999.PRG
+

@@ -1,0 +1,2 @@
+DEL *.DRN
+REN *.PRN *.DRN

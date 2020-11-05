@@ -1,0 +1,76 @@
+.prg.obj:
+   clipper $** /m /l
+
+fat000.obj:     fat000.prg
+est81.obj :     est81.prg
+est82.obj :     est82.prg
+est83.obj :     est83.prg
+est84.obj :     est84.prg
+est85.obj :     est85.prg
+rel999.obj :    rel999.prg
+
+estfunc.obj:    estfunc.prg
+
+ven570.obj:     ven570.prg
+est570.obj:     est570.prg
+age001.obj:     age001.prg
+rotin.obj:      rotin.prg
+funcao.obj:     funcao.prg
+
+cr0100.obj:     cr0100.prg
+cr0200.obj:     cr0200.prg
+cr0300.obj:     cr0300.prg
+cr0400.obj:     cr0400.prg
+cr0500.obj:     cr0500.prg
+cr0600.obj:     cr0600.prg
+cr9991.obj:     cr9991.prg
+cr1000.obj:     cr1000.prg
+cr1100.obj:     cr1100.prg
+cr1101.obj:     cr1101.prg
+cr1200.obj:     cr1200.prg
+cr1300.obj:     cr1300.prg
+cr1400.obj:     cr1400.prg
+cr1500.obj:     cr1500.prg
+crr1000.obj:    crr1000.prg
+crr1100.obj:    crr1100.prg
+crr1200.obj:    crr1200.prg
+crr1300.obj:    crr1300.prg
+crr1400.obj:    crr1400.prg
+crr1500.obj:    crr1500.prg
+crr1700.obj:    crr1700.prg
+
+SR0300.obj:     SR0300.prg
+SR0400.obj:     SR0400.prg
+SR0500.obj:     SR0500.prg
+SR0600.obj:     SR0600.prg
+SR0700.obj:     SR0700.prg
+SR9991.obj:     SR9991.prg
+SR1000.obj:     SR1000.prg
+SR1100.obj:     SR1100.prg
+SR1200.obj:     SR1200.prg
+SR1300.obj:     SR1300.prg
+SR1400.obj:     SR1400.prg
+SR1500.obj:     SR1500.prg
+SRr1000.obj:    SRr1000.prg
+SRr1100.obj:    SRr1100.prg
+SRr1200.obj:    SRr1200.prg
+SRr1300.obj:    SRr1300.prg
+SRr1500.obj:    SRr1500.prg
+SRr1700.obj:    SRr1700.prg
+BAC999.OBJ:     BAC999.PRG
+
+ER0900.obj:     ER0900.prg
+ER1000.obj:     ER1000.prg
+ER1100.obj:     ER1100.prg
+ER0600.obj:     ER0600.prg
+ER1500.obj:     ER1500.prg
+ER1200.obj:     ER1200.prg
+ER1300.obj:     ER1300.prg
+ER1400.obj:     ER1400.prg
+ERR1000.obj:     ERR1000.prg
+ERR1100.obj:     ERR1100.prg
+ERR1200.obj:     ERR1200.prg
+ERR1300.obj:     ERR1300.prg
+ERR1400.obj:     ERR1400.prg
+ERR1500.obj:     ERR1500.prg
+ERR1400.obj:     ERR1700.prg

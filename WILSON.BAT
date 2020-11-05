@@ -1,0 +1,3 @@
+CD\FOLHA
+CAPTURE /ti=11 /nff
+

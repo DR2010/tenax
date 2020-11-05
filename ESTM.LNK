@@ -1,0 +1,16 @@
+file est,
+     est11, est12, est13, est14, est16, est161, est17, est18, est19,
+     est21, est22, est23, est231,
+     est31,
+     est81, est83, est84, est85,
+     est91, est92, est93, est94, est95, est96, est97, est991, est992,
+     ven011, ven012,
+     ven021, ven022,
+     ven031, ven032, ven033, ven034, ven035,
+     ven362, ven363, ven364, ven365, ven366, ven367, ven368, ven369, ven370,
+     ven099,
+     funcao
+output menu.exe
+
+pll base52
+lib milib

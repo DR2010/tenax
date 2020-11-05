@@ -1,0 +1,3 @@
+SET CLIPPER=F100
+SET VERSAO=
+CLD estoque

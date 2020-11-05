@@ -1,0 +1,5 @@
+CD\FOLHA
+CAPTURE /ti=11 /nff
+MENU
+LOGOUT
+C:\CLS

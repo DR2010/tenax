@@ -1,0 +1,14 @@
+file ENTRADA,
+     FUNCS,
+     IMO10000,
+     IMO20000,
+     IMO30000,
+     IMO40000,
+     IMO50000,
+     IMO60000,
+     IMO70000,
+     IMO80000,
+     IMO90000
+
+output estoque.exe
+

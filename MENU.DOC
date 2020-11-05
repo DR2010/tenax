@@ -1,0 +1,54 @@
+
+
+
+Estoque
+   Cadastros
+      Almoxarifado
+      Fornecedor
+      Forma de Material
+      Tipo de Material
+      Item de Estoque
+      Tipo de Movimentacao
+      Parametros
+   Compras
+   Movimentacao
+   Detalhar Peca Curta
+   Recebimento de Material
+   Relatorios
+      Almoxarifado
+      Fornecedores
+      Forma do Material
+      Tipo de Material
+      Qtd.Itens de Estoque
+      Saida de Materiais
+      Entrada de Materiais
+      Lotes
+
+Vendas
+   Consulta
+   Pedido
+   Nota Fiscal
+   Separacao
+   Cadastros
+      Clientes
+      Vendedores
+      Comissao Vendedor
+      Comissao Comprador
+      Pagamento Vendedor
+      Pagamento Comprador
+      Comissoes de Venda
+      Precos de Venda
+	 Grupos
+	 Sub Grupos
+	 Precos/Colunas
+	 Sub Fatores
+
+Utilitarios
+
+   Mudanca de senha
+   Reorganizar indices
+   Backup dos dados
+   Recupera os dados
+   Cadastrar senha
+
+

@@ -1,0 +1,25 @@
+
+-------------------------------------------
+EXEC     ARJ       279,831 01-15-96   9:00p
+AGE001   DBF        12,799 01-14-96  11:11a
+AGE00101 NTX         9,216 01-15-96   8:04p
+TN1501   ARJ       445,954 01-15-96   9:01p
+-------------------------------------------
+
+Cleber,
+
+   copie apenas os arquivos
+       AGE001.dbf
+       AGE00101.ntx
+       EXEC.arj -> Este voce deve descompactar, pois ele
+                   contem o MENU.exe
+
+
+        Nao se esqueca de renomear o MENU.exe que esta na rede.
+
+                        ( F:\TENAX )
+
+
+                                        Daniel
+
+
